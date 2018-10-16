@@ -1,2 +1,2 @@
 # test-public-project
-For test only.
+For test needs only.
